@@ -13,7 +13,6 @@ DOE - Toda doação é importante!
 
 <br>
 
-
 ## O Projeto
 DOE - Site desenvolvido durante a MaratonaDev da [RocketSeat](https://rocketseat.com.br/) com o objetivo de armazenar e-mails de voluntários e seus típos sanguíneos em um banco de dados para contato posterior
 
